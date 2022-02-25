@@ -30,7 +30,7 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 <a href="https://www.php.net/" title="PHP"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>
-<a href="https://kotlinlang.org/" title="C#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="32" height="auto"/></a>
+<a href="https://kotlinlang.org/" title="Kotlin"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="32" height="auto"/></a>
 
 <br/><br/>
 
@@ -54,5 +54,5 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 ## Check out my github stats
 <br/>
 
-| ![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Irochiv&show_icons=true&theme=tokyonight) | ![Leonardo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Irochiv&theme=tokyonight) |
+[Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Irochiv&show_icons=true&theme=tokyonight) 
 
