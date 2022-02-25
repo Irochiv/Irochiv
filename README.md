@@ -2,13 +2,13 @@
 <!-- <p align="center"><b> Connect with me<b></p> -->
 <p align="center">
 <a href="mailto:leonardogallegosmtz@gmail.com">
-  <img align="center" alt="hanna's Mail" width="22px" src="https://github.com/Irochiv/Irochiv/blob/main/src/gmail_logo.svg" />
+  <img align="center" alt="hanna's Mail" width="30px" src="https://github.com/Irochiv/Irochiv/blob/main/src/gmail_logo.svg" />
 </a>
 <a href="https://www.linkedin.com/in/leonardo-gallegos-8764831ba/">
-  <img align="center" alt="hanna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="hanna's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://public.tableau.com/app/profile/hanna2006">
-  <img align="center" alt="hanna's Tableu public" width="22px" src="https://github.com/Irochiv/Irochiv/blob/main/src/tableu_logo.svg" />
+<a href="https://public.tableau.com/app/profile/leonardo.gallegos">
+  <img align="center" alt="hanna's Tableu public" width="30px" src="https://github.com/Irochiv/Irochiv/blob/main/src/tableu_logo.svg" />
 </a>
 </p>
 <br/>
@@ -51,7 +51,7 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 
 <br/><br/>
 
-## Check out my github stats
+## Mis estadisticas de github
 <br/>
 
 | ![Leonardo's github stats](https://github-readme-stats.vercel.app/api?username=Irochiv&show_icons=true&theme=tokyonight) 
