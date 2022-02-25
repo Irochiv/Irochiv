@@ -15,9 +15,9 @@
 
 
 
-Soy [Leonardo Gallegos](https://github.com/Irochiv) un Ingeniero en Desarrollo de Tecnologia y Software que esta cursando el ultimo año de la carrera
+Soy [Leonardo Gallegos](https://github.com/Irochiv) un Ingeniero en Desarrollo de Tecnologia y Software que esta cursando el ultimo año de la carrera es la
 <br/>
-es la [Universidad Modelo](https://www.unimodelo.edu.mx/)campus Merida.
+[Universidad Modelo](https://www.unimodelo.edu.mx/)campus Merida.
 <br/><br/>
 Tengo 23 años nacido en Villahermosa Tabasco, México.
 <br/><br/>
@@ -32,13 +32,13 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 <a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>
 <a href="https://kotlinlang.org/" title="Kotlin"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="32" height="auto"/></a>
 
-<br/><br/>
+<br/>
 
 ### Base de datos que he utilizado
 <br/>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mysql.png" /></a>
 <a href="https://mariadb.org/" title="MariaDB"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mariadb.png" /></a>
-<br/><br/>
+<br/>
 
 ### Herramientoas que utilizar
 <br/>
@@ -49,7 +49,7 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
 
 
-<br/><br/>
+<br/>
 
 ## Mis estadisticas de github
 <br/>
