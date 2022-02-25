@@ -42,11 +42,10 @@ Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un 
 
 ### Herramientoas que utilizar
 <br/>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/docker.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" /></a>
 
 
 <br/>
