@@ -4,11 +4,9 @@
 <a href="mailto:leonardogallegosmtz@gmail.com">
   <img align="center" alt="Correo" width="30px" src="https://github.com/Irochiv/Irochiv/blob/main/src/gmail_logo.svg" />
 </a>
+  <br/>
 <a href="https://www.linkedin.com/in/leonardo-gallegos-8764831ba/">
   <img align="center" alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://public.tableau.com/app/profile/leonardo.gallegos">
-  <img align="center" alt="hanna's Tableu public" width="30px" src="https://github.com/Irochiv/Irochiv/blob/main/src/tableu_logo.svg" />
 </a>
 </p>
 <br/>
