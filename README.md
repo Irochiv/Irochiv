@@ -15,11 +15,11 @@
 
 
 
-Soy [Leonardo Gallegos](https://github.com/Irochiv) un Ingeniero en Desarrollo de Tecnologia y Software que esta cursando el ultimo año de la carrera es la
+Soy [Leonardo Gallegos](https://github.com/Irochiv) un Ingeniero en Desarrollo de Tecnologia y Software recien egresado de la
 <br/>
 [Universidad Modelo](https://www.unimodelo.edu.mx/)campus Merida.
 <br/><br/>
-Tengo 23 años nacido en Villahermosa Tabasco, México.
+Tengo 24 años nacido en Villahermosa Tabasco, México.
 <br/><br/>
 Me gusta mucho el Backend, el crear la estructura de servicios de la nube de un proyecto e incluso crear contenedores especificos para estos 
 <br/><br/>
