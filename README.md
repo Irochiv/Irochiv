@@ -4,7 +4,6 @@
 <a href="mailto:leonardogallegosmtz@gmail.com">
   <img align="center" alt="Correo" width="30px" src="https://github.com/Irochiv/Irochiv/blob/main/src/gmail_logo.svg" />
 </a>
-  <br/>
 <a href="https://www.linkedin.com/in/leonardo-gallegos-8764831ba/">
   <img align="center" alt="LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
